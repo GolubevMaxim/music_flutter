@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "music_statistic_application",
+            "request": "launch",
+            "type": "dart"
+        },
+    ]
+}
